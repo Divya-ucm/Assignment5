@@ -30,6 +30,7 @@ SOLUTION:
 Getting the glass dataset by using read_csv() function and then spliting the data set into features and targets after that spliting the data into training and test sets by using train_test_split() and then training the model by using the Naive bayes method and then predicting & evaluating the dataset.
 
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/122486644/217722024-39842406-19d5-4ede-8a7a-80fcbc0c84a1.png">
-<img width="370" alt="image" src="https://user-images.githubusercontent.com/122486644/217722111-24a88382-945a-4512-a466-b4fea932c303.png">
+<img width="728" alt="image" src="https://user-images.githubusercontent.com/122486644/217724653-115e95c7-12f7-48d1-9660-6aef032bd0a0.png">
 
+while comparing the two algorithms linear SVM has more accuracy compared to Navies bayes of linear svm=0.51 & navies bayes accuracy =0.37 moreover we can see the different parameters like precision,f1-score support parameters of linear svm algorithm are having high values compared to Nayes baye algorithm.
 
