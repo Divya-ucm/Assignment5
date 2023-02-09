@@ -3,7 +3,7 @@
 Name: Divya Pothuru
 NetworkId:DXP62920
 
-VIDEO-LINK:
+VIDEO-LINK:  https://drive.google.com/file/d/1FK85jwWfoyW90h-eIWlzhi8u1aKZwrDf/view?usp=share_link
 
 1. Implement Naïve Bayes method using scikit-learn library
 Use dataset available with name glass
